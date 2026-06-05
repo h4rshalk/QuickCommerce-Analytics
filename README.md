@@ -198,6 +198,20 @@ Three production-grade analytical queries using **CTEs**, **Window Functions**, 
 | **Customer & SLA Analysis** | SLA breach patterns | SLA breach by hour, Customer segment breakdown, Cancellations by payment |
 | **Rider Performance** | Rider efficiency | Top 10 riders, Late rate by vehicle type, Full rider performance table |
 
+### Dashboard Screenshots
+
+**Page 1 — Operations Overview**
+![Operations Overview](assets/page1_operations_overview.png)
+
+**Page 2 — Dark Store Performance**
+![Dark Store Performance](assets/page2_dark_store_performance.png)
+
+**Page 3 — Customer & SLA Analysis**
+![Customer and SLA Analysis](assets/page3_customer_sla.png)
+
+**Page 4 — Rider Performance**
+![Rider Performance](assets/page4_rider_performance.png)
+
 ### DAX Measures Built
 
 ```dax
