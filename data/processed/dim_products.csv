@@ -1,0 +1,40 @@
+product_id,product_name,category,unit_price
+PRD010,Toor Dal 500g,Grocery,275.23
+PRD002,Amul Butter 500g,Dairy,39.96
+PRD011,Lays Classic 50g,Snacks,37.93
+PRD020,Nescafe Coffee 50g,Beverages,109.11
+PRD026,Banana 1kg,Fruits & Vegetables,48.41
+PRD027,Tomato 500g,Fruits & Vegetables,76.58
+PRD029,Apple 4pcs,Fruits & Vegetables,59.97
+PRD017,Tropicana Orange 1l,Beverages,237.61
+PRD019,Bisleri Water 1l,Beverages,238.28
+PRD022,Colgate Toothpaste 200g,Personal Care,293.75
+PRD004,Curd 400g,Dairy,101.73
+PRD014,Good Day Cookies 100g,Snacks,69.5
+PRD008,Saffola Oil 1l,Grocery,117.13
+PRD012,Kurkure Masala 40g,Snacks,38.12
+PRD024,Dettol Handwash 200ml,Personal Care,170.15
+PRD025,Nivea Cream 100ml,Personal Care,83.55
+PRD032,Amul Ice Cream 500ml,Frozen Foods,141.19
+PRD018,Red Bull 250ml,Beverages,152.02
+PRD038,Johnson Baby Powder 100g,Baby Care,163.26
+PRD006,Tata Salt 1kg,Grocery,266.42
+PRD030,Spinach 250g,Fruits & Vegetables,34.77
+PRD003,Amul Paneer 200g,Dairy,147.17
+PRD005,Cheese Slices 200g,Dairy,91.22
+PRD007,Fortune Atta 5kg,Grocery,267.09
+PRD013,Oreo Biscuits 120g,Snacks,84.94
+PRD021,Dove Soap 100g,Personal Care,192.65
+PRD009,Basmati Rice 1kg,Grocery,226.47
+PRD015,Haldirams Bhujia 200g,Snacks,31.95
+PRD028,Onion 1kg,Fruits & Vegetables,90.33
+PRD031,Mccain Fries 400g,Frozen Foods,188.39
+PRD033,Frozen Peas 500g,Frozen Foods,346.12
+PRD036,Pampers Diapers S 20pcs,Baby Care,638.68
+PRD023,Head Shoulders 180ml,Personal Care,98.48
+PRD034,Fish Fingers 300g,Frozen Foods,250.91
+PRD035,Chicken Nuggets 400g,Frozen Foods,171.72
+PRD001,Amul Milk 1l,Dairy,69.79
+PRD016,Coca Cola 750ml,Beverages,40.49
+PRD037,Cerelac Wheat 300g,Baby Care,490.51
+PRD039,Mamy Poko Pants M 18pcs,Baby Care,544.0

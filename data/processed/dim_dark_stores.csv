@@ -1,0 +1,31 @@
+store_id,store_name,city,area,opening_date,capacity_score
+STR028,Bellandur Dark Store,Bangalore,Bellandur,2026-04-23,7
+STR007,Aundh Dark Store,Pune,Aundh,2025-01-03,3
+STR010,Shivajinagar Dark Store,Pune,Shivajinagar,2024-10-24,1
+STR016,Dadar Dark Store,Mumbai,Dadar,2024-11-28,5
+STR018,Malad Dark Store,Mumbai,Malad,2025-10-03,10
+STR020,Vikhroli Dark Store,Mumbai,Vikhroli,2025-06-12,8
+STR009,Hinjewadi Dark Store,Pune,Hinjewadi,2024-08-19,5
+STR013,Powai Dark Store,Mumbai,Powai,2026-02-11,10
+STR025,Btm Layout Dark Store,Bangalore,Btm Layout,2025-11-04,3
+STR006,Hadapsar Dark Store,Pune,Hadapsar,2025-04-05,3
+STR021,Koramangala Dark Store,Bangalore,Koramangala,2025-08-29,8
+STR012,Bandra Dark Store,Mumbai,Bandra,2026-04-08,6
+STR030,Yelahanka Dark Store,Bangalore,Yelahanka,2026-02-13,4
+STR008,Magarpatta Dark Store,Pune,Magarpatta,2025-09-11,9
+STR019,Goregaon Dark Store,Mumbai,Goregaon,2025-06-21,5
+STR001,Koregaon Park Dark Store,Pune,Koregaon Park,2026-05-06,5
+STR004,Kothrud Dark Store,Pune,Kothrud,2025-04-17,10
+STR015,Borivali Dark Store,Mumbai,Borivali,2025-06-18,5
+STR023,Whitefield Dark Store,Bangalore,Whitefield,2024-08-27,3
+STR029,Electronic City Dark Store,Bangalore,Electronic City,2024-09-20,5
+STR026,Jayanagar Dark Store,Bangalore,Jayanagar,2026-05-31,10
+STR027,Marathahalli Dark Store,Bangalore,Marathahalli,2025-07-15,5
+STR017,Kurla Dark Store,Mumbai,Kurla,2025-01-09,3
+STR011,Andheri Dark Store,Mumbai,Andheri,2026-04-19,4
+STR024,Hsr Layout Dark Store,Bangalore,Hsr Layout,2025-08-22,3
+STR002,Wakad Dark Store,Pune,Wakad,2025-05-18,10
+STR003,Baner Dark Store,Pune,Baner,2025-10-22,5
+STR005,Viman Nagar Dark Store,Pune,Viman Nagar,2024-10-14,1
+STR014,Thane Dark Store,Mumbai,Thane,2025-05-25,6
+STR022,Indiranagar Dark Store,Bangalore,Indiranagar,2025-09-06,5
